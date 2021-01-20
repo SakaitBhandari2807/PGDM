@@ -7,6 +7,7 @@ The project is about creating a ETL pipelines for the sparkify data that is gene
 ## PREREQUISITE
 1. ***Install POSTGRES DB***
 2. ***create new user student and database***
+3. ***INSTALL PSYCOPG2 PACKAGE***
 
 ## How to run the ETL Pipelines.
 
